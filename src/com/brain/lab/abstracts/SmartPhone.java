@@ -1,6 +1,6 @@
 package com.brain.lab.abstracts;
 
-public class SmartPhone extends Mobile implements Caller, emailSender {
+public class SmartPhone extends Mobile implements Caller, EmailSender {
     private String os;
 
     public String getOs() {

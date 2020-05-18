@@ -1,6 +1,6 @@
 package com.brain.lab.abstracts;
 
-public interface emailSender extends MailSender {
+public interface EmailSender extends MailSender {
 
     String editMail(String mail);
 
